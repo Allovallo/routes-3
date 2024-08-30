@@ -5,7 +5,7 @@ export const Products = () => {
     const products = getProducts();
     return (
         <main>
-            <ProductList product={products} />
+            <ProductList products={products} />
         </main>
     )
 }
