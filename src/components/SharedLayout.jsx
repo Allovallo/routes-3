@@ -19,7 +19,7 @@ export const SharedLayout = () => {
                     <Link to='/products'>Products</Link>
                 </nav>
             </Header>
-            <Outlet></Outlet>
+            <Outlet/>
         </Container>
     )
 }
