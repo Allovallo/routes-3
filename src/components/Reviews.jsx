@@ -1,6 +1,6 @@
 export const Reviews = () => {
     return (
-                <section>
+        <section>
             <div>
                 <h2>First review - 4.5.0.</h2>
                 <p>

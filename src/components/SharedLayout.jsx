@@ -6,7 +6,7 @@ export const SharedLayout = () => {
         <Container>
             <Header>
                 <Logo>
-                    <span role="img" aria-label='computer con'>
+                    <span role="img" aria-label='computer on'>
                         💻
                     </span>
                     GoMerch Store
